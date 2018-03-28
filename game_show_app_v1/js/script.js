@@ -96,5 +96,5 @@ let keyboard = function(e) {
    }
   }
   checkWin ();
-}
+};
 qwerty.addEventListener ('click', keyboard);
